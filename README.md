@@ -50,9 +50,9 @@ Nosso usuário principal é o **João Silva**, um motorista de aplicativo de 30 
 - **Banco de Dados**: MySQL 
 - **API**: Google Maps API
 
-  ## Link do projeto no vercel
+## Link do projeto no vercel
 
-  [Link Aqui](https://projeto-distance-hq1q.vercel.app/)
+- [Link Aqui](https://projeto-distance-hq1q.vercel.app/)
 
 
 ## Equipe
