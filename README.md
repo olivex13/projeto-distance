@@ -54,6 +54,8 @@ Nosso usuário principal é o **João Silva**, um motorista de aplicativo de 30 
 
 - [Link Aqui](https://projeto-distance-hq1q.vercel.app/)
 
+## Link do vídeo 
+- [Link Aqui](https://www.youtube.com/watch?v=nhZpUNuosfE)
 
 ## Equipe
 
